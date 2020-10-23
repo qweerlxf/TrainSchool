@@ -1,0 +1,49 @@
+body {
+    background-color: #e5e5e5;
+    background-size: 100%;
+}
+
+#reg_frame {
+    width: 400px;
+    height: 280px;
+    padding: 13px;
+
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -200px;
+    margin-top: -200px;
+
+    background-color: rgba(240, 255, 255, 0.5);
+
+    border-radius: 10px;
+    text-align: center;
+}
+
+#line_height {
+    line-height:35px;
+}
+
+.text_field {
+    width: 278px;
+    height: 28px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: 0;
+}
+
+#btn_reg {
+    font-size: 14px;
+    font-family: 宋体;
+
+    width: 100px;
+    height: 28px;
+    line-height: 28px;
+    text-align: center;
+
+    color: white;
+    background-color: #3BD9FF;
+    border-radius: 6px;
+    border: 0;
+    margin: auto;
+}

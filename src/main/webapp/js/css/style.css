@@ -1,0 +1,18 @@
+body {
+    background-color: #e5e5e5;
+    background-size: 100%;
+}
+
+#main {
+    background-color: rgba(240, 255, 255, 0.5);
+    border-radius: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: center;
+    border:2px;
+}
+
+#s_link {
+    text-decoration: none;
+    COLOR: #096d9c;
+}
